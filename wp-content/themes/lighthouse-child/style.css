@@ -1,0 +1,52 @@
+/*
+ Theme Name:   Light House Child
+ Description:  Light House Theme
+ Author:       Simplon
+ Template:     lighthouse
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  lighthouse-child
+*/
+
+hr {
+    border-color: #fab526;
+}
+
+.paragrapheaccueil {
+    margin-bottom: 2em;
+}
+
+.important-link {
+    border: 1px solid #fab526;
+    background-color: #fab526;
+    padding: 1em;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: white;
+}
+
+.nom-lien {
+    color: white;
+    text-align: center;
+}
+
+.description-lien {
+    color: white;
+}
+
+.lien-ext {
+    margin-bottom: 3em;
+}
+
+ul.liste-style {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
